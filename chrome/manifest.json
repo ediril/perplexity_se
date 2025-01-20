@@ -13,7 +13,7 @@
         "search_provider": {
           "name": "Perplexity",
           "search_url": "https://www.perplexity.ai/search/new?q={searchTerms}",
-          "favicon_url": "icons/16.png",
+          "favicon_url": "https://www.perplexity.ai/favicon.ico",
           "keyword": "@perplexity",
           "is_default": true,
           "encoding": "UTF-8"
@@ -23,6 +23,7 @@
         "16": "icons/16.png",
         "32": "icons/32.png",
         "48": "icons/48.png",
-        "64": "icons/64.png"
+        "64": "icons/64.png",
+        "128": "icons/128.png"
     }
 }
